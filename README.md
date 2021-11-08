@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mahesh Kumar Gudumala
+- 👋 Hi, I’m Mahesh Kumar
 - 👀 I’m interested in Machine Learning and Software Development
 - 🌱 I'm currenlty investing most of time in Natural Language Processing
 - 💞️ I’m looking to collaborate on projects related to Natuaral Language Processing
