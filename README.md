@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mahesh Kumar
 - 👀 I’m interested in Machine Learning and Software Development
-- 🌱 I'm currenlty investing most of time in Natural Language Processing
-- 💞️ I’m looking to collaborate on projects related to Natuaral Language Processing
+- 🌱 I'm currenlty looking for jobs in Software Engineering and Development
+- 💞️ I’m looking to collaborate on projects related to Full Stack Java and .NET
 - 📫 How to reach me maheshkumar24424@gmail.com
 
 <!---
